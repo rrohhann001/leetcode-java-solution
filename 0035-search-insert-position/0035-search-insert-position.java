@@ -19,11 +19,8 @@ class Solution {
             lb=mid+1;
         }
      }
-     if(nums[mid]>target){
-        return mid;
-     }
-     else{
-        return mid+1;
-     }
+
+     return lb;
+    
     }
 }
