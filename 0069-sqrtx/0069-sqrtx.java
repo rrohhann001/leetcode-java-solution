@@ -3,20 +3,13 @@ class Solution {
 
         
         long lb=1;
-        long length=100;
-        long ub=length;
+        long ub=x/2;
         long mid=0;
 
         while(lb<=ub){
             mid=lb+(ub-lb)/2;
 
-            if(length<=46400 && length*length<x){
-                length=length+100;
-                lb=ub+1;
-                ub=length;
-                
-            }
-            else if(mid*mid==x){
+            if(mid*mid==x){
                 return (int)mid;
             }
             else if(mid*mid<x){
