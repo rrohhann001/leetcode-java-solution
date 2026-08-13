@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
