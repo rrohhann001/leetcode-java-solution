@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
