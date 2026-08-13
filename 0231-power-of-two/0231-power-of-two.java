@@ -2,9 +2,8 @@ class Solution {
     public boolean isPowerOfTwo(int n) {
 
         if(n<0){
-            return binarySearch(0,31,n,-2);
+            return false;
         }
-
         else{
             return binarySearch(0,30,n,2);
         }
