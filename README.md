@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
@@ -111,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
