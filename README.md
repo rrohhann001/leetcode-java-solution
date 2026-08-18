@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0002-add-two-numbers) |
 | [0707-design-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
