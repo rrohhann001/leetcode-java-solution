@@ -28,27 +28,17 @@ class Solution {
             slow=nextNode;    
         }
 
-        //In case of even linked list 
-        if(fast==null){
-            while(pre!=null){
-                if(pre.val!=slow.val){
-                    return false;
-                }
-                pre=pre.next;
-                slow=slow.next;
-            }
+        //In case of odd linked list, move slow pointer by 1 step 
+        if(fast!=null){
+            slow=slow.next;
         }
 
-        //In case of odd linked list, move the slow pointer by 1 step
-        else{
-            slow=slow.next;
-            while(pre!=null){
-                if(pre.val!=slow.val){
-                    return false;
-                }
-                pre=pre.next;
-                slow=slow.next;
+        while(pre!=null){
+            if(pre.val!=slow.val){
+                return false;
             }
+            pre=pre.next;
+            slow=slow.next;
         }
 
         return true;
