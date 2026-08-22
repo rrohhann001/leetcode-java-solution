@@ -13,18 +13,18 @@ class Solution {
         if(head==null){
             return head;
         }
-        ListNode oddFast=head;
-        ListNode evenFast=head.next;
-        ListNode temp=evenFast;
-        while(evenFast!=null && evenFast.next!=null){
+        ListNode odd=head;
+        ListNode even=head.next;
+        ListNode temp=even;
+        while(even!=null && even.next!=null){
             
-            oddFast.next=oddFast.next.next;
-            oddFast=oddFast.next;
+            odd.next=even.next;
+            odd=odd.next;
 
-            evenFast.next=evenFast.next.next;
-            evenFast=evenFast.next;
+            even.next=odd.next;
+            even=even.next;
         }
-        oddFast.next=temp;
+        odd.next=temp;
 
         return head;
 
