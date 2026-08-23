@@ -21,7 +21,7 @@ class Solution {
         }
 
         int rotate=k%size;
-        ListNode t1=head;
+        if(k==0){return head;}
         ListNode first=head;
         ListNode second=head;
         while(second.next!=null){
