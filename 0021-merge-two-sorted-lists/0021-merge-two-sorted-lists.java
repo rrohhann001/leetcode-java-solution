@@ -38,8 +38,10 @@ class Solution {
             temp=temp.next;
             list2=list2.next;
         }
+        temp=result.next;
+        result.next=null;
 
-        return result.next;
+        return temp;
         
     }
 }
