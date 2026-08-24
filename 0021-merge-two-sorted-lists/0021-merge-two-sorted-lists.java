@@ -27,16 +27,12 @@ class Solution {
             }
         }
 
-        while(list1!=null){
-            temp.next=list1;
-            temp=temp.next;
-            list1=list1.next;
+        if(list1==null){
+            temp.next=list2;
         }
 
-        while(list2!=null){
-            temp.next=list2;
-            temp=temp.next;
-            list2=list2.next;
+        else if(list2==null){
+            temp.next=list1;
         }
         temp=result.next;
         result.next=null;
