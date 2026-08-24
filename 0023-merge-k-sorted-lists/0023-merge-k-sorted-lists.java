@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
+    public static ListNode mergeKLists(ListNode[] lists) {
         if(lists.length==0){
             return null;
         }
@@ -21,7 +21,7 @@ class Solution {
         return t1;
         
     }
-    private ListNode margeSort(ListNode l1, ListNode l2){
+    private static ListNode margeSort(ListNode l1, ListNode l2){
         if(l1==null && l2==null){
             return l1;
         }
