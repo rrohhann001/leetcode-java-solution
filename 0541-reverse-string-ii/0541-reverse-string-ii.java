@@ -1,5 +1,5 @@
 class Solution {
-    private void reverse(int i, int j, char[] arr){
+    private static void reverse(int i, int j, char[] arr){
         while(i<j){
             char temp=arr[i];
             arr[i]=arr[j];
