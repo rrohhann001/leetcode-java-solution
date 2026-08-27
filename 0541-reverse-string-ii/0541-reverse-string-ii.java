@@ -1,37 +1,23 @@
 class Solution {
+    private void reverse(int i, int j, char[] arr){
+        while(i<j){
+            char temp=arr[i];
+            arr[i]=arr[j];
+            arr[j]=temp;
+            i++;
+            j--;
+        }
+    }
     public String reverseStr(String s, int k) {
-        if(k==1){return s;}
-        if(k>s.length()){
-            StringBuilder st=new StringBuilder(s);
-            return st.reverse().toString();
+        char[] arr=s.toCharArray();
+        int i=0;
+        int n=arr.length;
+        while(i<n){
+            int j=Math.min(i+k-1,n-1);
+            reverse(i,j,arr);
+            i=i+2*k;
         }
-        StringBuilder st=new StringBuilder();
-        int n=0;
-        while(n<s.length()){
-          int i; 
-
-            if(n + k <= s.length()){
-
-                for(i = n + k - 1; i >= n; i--){
-                    st.append(s.charAt(i)); 
-                }
-
-                for(i = n + k; i < n + 2 * k && i < s.length(); i++){
-                    st.append(s.charAt(i));  
-                }
-
-            }
-            else{
-
-                // k se kam characters bache hain
-                for(i = s.length() - 1; i >= n; i--){
-                    st.append(s.charAt(i));
-                }
-
-            }
-
-            n=n+2*k;
-        }
-        return st.toString();
+        return new String(arr);
+        
     }
 }
