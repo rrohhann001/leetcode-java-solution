@@ -3,17 +3,14 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        int[] arrS=new int[26];
-        int[] arrT=new int[26];
+        int[] arr=new int[26];
         for(int i=0; i<s.length();i++){
-            char chS=s.charAt(i);
-            char chT=t.charAt(i);
-            arrS[chS-'a']++;
-            arrT[chT-'a']++;           
+            arr[s.charAt(i)-'a']++;
+            arr[t.charAt(i)-'a']--;           
         }
         
         for(int i=0;i<26;i++){
-            if(arrS[i]!=arrT[i]){
+            if(arr[i]!=0){
                 return false;
             }
         }
