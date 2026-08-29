@@ -1,5 +1,5 @@
 class Solution {
-    public static boolean isAnagram(String s, String t) {
+    public boolean isAnagram(String s, String t) {
         if(s.length()!=t.length()){
             return false;
         }
