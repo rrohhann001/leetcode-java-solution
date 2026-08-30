@@ -8,13 +8,13 @@ class Solution {
         // HashMap<Character, Character> sToTMap=new HashMap<>();
         // HashMap<Character, Character> tToSMap=new HashMap<>();
 
-        //String Builder thoda fast hota hai normal string se isi liye use kiya hai bass 
-        StringBuilder sbS=new StringBuilder(s);
-        StringBuilder sbT=new StringBuilder(t);
         int[] sToTMap = new int[128];
         int[] tToSMap =new int[128];
         Arrays.fill(sToTMap,-1);
         Arrays.fill(tToSMap,-1);
+        //String Builder thoda fast hota hai normal string se isi liye use kiya hai bass 
+        StringBuilder sbS=new StringBuilder(s);
+        StringBuilder sbT=new StringBuilder(t);
         
         for(int i=0;i<s.length();i++){
             char s1=sbS.charAt(i);
@@ -42,6 +42,9 @@ class Solution {
             }
         }
         return true;
+
+
+        //Hash Map slow hota hai array se and Hash map vali approch beats only 27.06% an run time 18ms.
         
     }
 }
