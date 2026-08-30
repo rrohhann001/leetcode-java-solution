@@ -3,11 +3,15 @@ class Solution {
         // if(s.length()!=t.length()){
         //     return false;
         // }
+
+        //String Builder thoda fast hota hai normal string se 
+        StringBuilder sbS=new StringBuilder(s);
+        StringBuilder sbT=new StringBuilder(t); 
         HashMap<Character, Character> sToTMap=new HashMap<>();
         HashMap<Character, Character> tToSMap=new HashMap<>();
         for(int i=0;i<s.length();i++){
-            char s1=s.charAt(i);
-            char t1=t.charAt(i);
+            char s1=sbS.charAt(i);
+            char t1=sbT.charAt(i);
 
             if(!sToTMap.containsKey(s1)){
                 sToTMap.put(s1,t1);
