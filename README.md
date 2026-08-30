@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0771-jewels-and-stones) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
