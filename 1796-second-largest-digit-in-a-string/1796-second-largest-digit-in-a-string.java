@@ -3,48 +3,53 @@ class Solution {
         ArrayList<Integer> arr=new ArrayList<>();
 
         for(int i=0;i<s.length();i++){
-            
-            switch(s.charAt(i)){
-                case '0':
-                arr.add(s.charAt(i) -'0');
-                break;
+            char ch=s.charAt(i);
 
-                case '1':
-                arr.add(s.charAt(i) -'0');
-                break;
-
-                case '2':
-                arr.add(s.charAt(i) -'0');
-                break;
-
-                case '3':
-                arr.add(s.charAt(i) -'0');
-                break;
-
-                case '4':
-                arr.add(s.charAt(i) -'0');
-                break;
-                
-                case '5':
-                arr.add(s.charAt(i) -'0');
-                break;
-                
-                case '6':
-                arr.add(s.charAt(i) -'0');
-                break;
-
-                case '7':
-                arr.add(s.charAt(i) -'0');
-                break;
-
-                case '8':
-                arr.add(s.charAt(i) -'0');
-                break;
-
-                case '9':
-                arr.add(s.charAt(i) -'0');
-                break;
+            if(ch<'a'){
+                arr.add(ch-'0');
             }
+            
+            // switch(s.charAt(i)){
+            //     case '0':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+
+            //     case '1':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+
+            //     case '2':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+
+            //     case '3':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+
+            //     case '4':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+                
+            //     case '5':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+                
+            //     case '6':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+
+            //     case '7':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+
+            //     case '8':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+
+            //     case '9':
+            //     arr.add(s.charAt(i) -'0');
+            //     break;
+            // }
         }
         if(arr.size()==0){
             return -1;
