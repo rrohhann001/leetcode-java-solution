@@ -1,22 +1,18 @@
 class Solution {
     public int secondHighest(String s) {
-        ArrayList<Integer> arr=new ArrayList<>();
         int firstLargest=-1;
         int secondLargest=-1;
-        int j=-1;
         for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
+            int digit=s.charAt(i)-'0';
 
-            if(ch<'a'){
-                arr.add(ch-'0');
-                j++;
+            if(digit<10){
 
-                if(arr.get(j)>firstLargest){
+                if(digit>firstLargest){
                     secondLargest=firstLargest;
-                    firstLargest=arr.get(j);
+                    firstLargest=digit;
                 }
-                else if(arr.get(j)>secondLargest && arr.get(j)<firstLargest){
-                    secondLargest=arr.get(j);
+                else if(digit>secondLargest && digit<firstLargest){
+                    secondLargest=digit;
                 }
             }
             
@@ -61,9 +57,6 @@ class Solution {
             //     arr.add(s.charAt(i) -'0');
             //     break;
             // }
-        }
-        if(arr.size()==0){
-            return -1;
         }
         
         return secondLargest;
