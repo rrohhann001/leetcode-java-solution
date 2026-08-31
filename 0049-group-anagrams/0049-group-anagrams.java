@@ -3,45 +3,24 @@ class Solution {
         if(strs.length==0){
             return new ArrayList<List<String>>();
         }
+        Map<String, List<String>> ans=new HashMap<>();
+        for(String str:strs){
+            char[] ca=str.toCharArray();
 
-        List<List<String>> ans=new ArrayList<>();
-        for(int i=0;i<strs.length;i++){
-            if(strs[i].equals("-1")){
-                continue;
+            Arrays.sort(ca);
+
+            String key=new String(ca);
+
+            if(!ans.containsKey(key)){
+                ans.put(key, new ArrayList<String>());
             }
-            List<String> list=new ArrayList<>();
-            for(int j=i+1;j<strs.length;j++){
-                if(!strs[j].equals("-1") && anagram(strs[i],strs[j])){
-                    list.add(strs[j]);
-                    strs[j]="-1";
-                }
-            }
-            list.add(strs[i]);
-            strs[i]="-1";
+            ans.get(key).add(str);
             
-            if(!list.isEmpty()){
-                ans.add(list);
-            }
         }
 
-        return ans;
+        return new ArrayList<>(ans.values());
         
 
     }
 
-    private boolean anagram(String s, String t){
-        if(s.length()!=t.length()){return false;}
-        int[] arr=new int[26];
-        for(int i=0;i<s.length();i++){
-            arr[s.charAt(i)-'a']++;
-            arr[t.charAt(i)-'a']--;
-        }
-        for(int i=0;i<26;i++){
-            if(arr[i]<0){
-                return false;
-            }
-        }
-
-        return true;
-    }
 }
