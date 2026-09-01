@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
