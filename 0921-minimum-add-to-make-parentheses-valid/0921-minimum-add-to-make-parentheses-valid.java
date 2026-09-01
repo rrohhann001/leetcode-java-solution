@@ -1,26 +1,46 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> st=new Stack();
+        int balance = 0;
+        int count=0;
+
         for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            if(st.isEmpty()){
-                st.push(ch);
+            if(s.charAt(i)=='('){
+                balance++;
             }
-            else if(st.peek()=='(' && ch==')' ){
-                st.pop();
+            else if(balance>0){
+                balance--;
             }
             else{
-                st.push(ch);
+                count++;
             }
         }
+        return balance+count;
 
-        int count=0;
-        while(!st.isEmpty()){
-            st.pop();
-            count++;
-        }
 
-        return count;
+
+
+        // my first approch bets 42.57% and runtime is 2ms above is best approch.
+        // Stack<Character> st=new Stack<>();
+        // for(int i=0;i<s.length();i++){
+        //     char ch=s.charAt(i);
+        //     if(st.isEmpty()){
+        //         st.push(ch);
+        //     }
+        //     else if(st.peek()=='(' && ch==')' ){
+        //         st.pop();
+        //     }
+        //     else{
+        //         st.push(ch);
+        //     }
+        // }
+
+        // int count=0;
+        // while(!st.isEmpty()){
+        //     st.pop();
+        //     count++;
+        // }
+
+        // return count;
         
     }
 }
