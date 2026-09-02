@@ -1,5 +1,8 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
+        if(val>50){
+            return nums.length;
+        }
 
         int i=0;
         for(int j=0;j<nums.length;j++){
