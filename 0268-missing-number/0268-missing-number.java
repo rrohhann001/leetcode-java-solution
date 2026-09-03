@@ -10,11 +10,13 @@ class Solution {
 
         //this is my second thought(approch) i now this concept also 
         int totalSum=nums.length*(nums.length+1)/2;
-        int sum=0;
+        // int sum=0;
         for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
+            // sum+=nums[i];
+            totalSum-=nums[i];
         }
 
-        return totalSum-sum;
+        // return totalSum-sum;
+        return totalSum;
     }
 }
