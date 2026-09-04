@@ -12,12 +12,8 @@ class Solution {
 
                 for(int k=0;k<26;k++){
                     if(arr[k]>0){
-                        if(max<arr[k]){
-                            max=arr[k];
-                        }
-                        if(min>arr[k]){
-                            min=arr[k];
-                        }
+                        max=Math.max(max,arr[k]);
+                        min=Math.min(min,arr[k]);
                     }
                 }
                 sum=sum+max-min;
