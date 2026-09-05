@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0876-middle-of-the-linked-list) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -239,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
