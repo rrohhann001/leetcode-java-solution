@@ -9,7 +9,7 @@ class Solution {
        for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
 
-             //digit
+            //digit
             if(ch>='0' && ch<='9'){
             count=count*10+(ch-'0');
             }
