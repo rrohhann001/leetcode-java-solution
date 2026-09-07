@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0125-valid-palindrome) |
