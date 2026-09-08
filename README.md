@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
