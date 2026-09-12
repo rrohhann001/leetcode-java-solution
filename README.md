@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2942-find-words-containing-character](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -169,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
 | ------- |
