@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
+| [0686-repeated-string-match](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -277,4 +278,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
