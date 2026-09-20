@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
