@@ -37,60 +37,95 @@ class Solution {
 
         // return stack.pop();
 
+        //int this approch i use ArrayList
+        //and this is also beats 87.77% and runtimee 6ms
 
-        //int this approch i use array
-        List<Integer> stack=new ArrayList<>();
-        int top=-1;
-        int num1;
-        int num2;
-        for(String str: tokens){
-            switch(str){
+        // List<Integer> stack=new ArrayList<>();
+        // int top=-1;
+        // int num1;
+        // int num2;
+        // for(String str: tokens){
+        //     switch(str){
+
+        //         case "+":
+        //         num1=stack.get(top);
+        //         num2=stack.get(top-1);
+        //         stack.remove(top);
+        //         stack.remove(top-1);
+        //         top--;
+        //         stack.add(num2+num1);
+        //         break;  
+
+        //         case "-":
+        //         num1=stack.get(top);
+        //         num2=stack.get(top-1);
+        //         stack.remove(top);
+        //         stack.remove(top-1);
+        //         top--;
+        //         stack.add(num2-num1);
+        //         break; 
+
+        //         case "*":
+        //         num1=stack.get(top);
+        //         num2=stack.get(top-1);
+        //         stack.remove(top);
+        //         stack.remove(top-1);
+        //         top--;
+        //         stack.add(num2*num1);
+        //         break; 
+
+        //         case "/":
+        //         num1=stack.get(top);
+        //         num2=stack.get(top-1);
+        //         stack.remove(top);
+        //         stack.remove(top-1);
+        //         top--;
+        //         stack.add(num2/num1);
+        //         break;
+
+        //         default:
+        //         top++;
+        //         stack.add(Integer.parseInt(str));
+        //         break;           
+        //     }
+        // }
+
+        // return stack.get(top);
+
+        //int his i use only simple array
+        int[] arr = new int[tokens.length];
+        int size = 0;
+        for (String str : tokens) {
+            switch (str) {
 
                 case "+":
-                num1=stack.get(top);
-                num2=stack.get(top-1);
-                stack.remove(top);
-                stack.remove(top-1);
-                top--;
-                stack.add(num2+num1);
-                break;  
+                    arr[size - 2] += arr[size - 1];
+                    size--;
+                    break;
 
                 case "-":
-                num1=stack.get(top);
-                num2=stack.get(top-1);
-                stack.remove(top);
-                stack.remove(top-1);
-                top--;
-                stack.add(num2-num1);
-                break; 
-
+                    arr[size - 2] -= arr[size - 1];
+                    size--;
+                    break;
 
                 case "*":
-                num1=stack.get(top);
-                num2=stack.get(top-1);
-                stack.remove(top);
-                stack.remove(top-1);
-                top--;
-                stack.add(num2*num1);
-                break; 
+                    arr[size - 2] *= arr[size - 1];
+                    size--;
+                    break;
 
                 case "/":
-                num1=stack.get(top);
-                num2=stack.get(top-1);
-                stack.remove(top);
-                stack.remove(top-1);
-                top--;
-                stack.add(num2/num1);
-                break;
+                    arr[size - 2] /= arr[size - 1];
+                    size--;
+                    break;
 
                 default:
-                top++;
-                stack.add(Integer.parseInt(str));
-                break;           
+                    arr[size] = Integer.parseInt(str);
+                    size++;
+                    break;
             }
         }
 
-        return stack.get(top);
-        
+        return arr[size - 1];
+
     }
 }
