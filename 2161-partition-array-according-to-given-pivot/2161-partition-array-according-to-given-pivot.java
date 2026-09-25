@@ -24,7 +24,7 @@ class Solution {
         }
 
         i=0;
-        while(i<size){
+        while(i<size && k<size){
             int num=nums[i];
             if(num>pivot){
                 arr[k]=num;
