@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0206-reverse-linked-list) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0202-happy-number) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
