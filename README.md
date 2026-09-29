@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0027-remove-element) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0027-remove-element) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
