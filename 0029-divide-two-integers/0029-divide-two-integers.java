@@ -3,8 +3,6 @@ class Solution {
         // int ans=(int)(dividend/divisor);
         // return ans; without this /,%,* oprators
 
-        if (dividend == divisor)
-            return 1;
         long temp1=Math.abs((long)dividend);
         long temp2=Math.abs((long)divisor);
         if(temp2==1){
