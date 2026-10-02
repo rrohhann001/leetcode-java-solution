@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2487-remove-nodes-from-linked-list) |
