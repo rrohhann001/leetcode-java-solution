@@ -1,26 +1,54 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-
-        //ish mai hum forwarded chech kar rahe hai
-        Stack<Integer> stack=new Stack<>();
+        //this is best approch but i understand only 45%
+        int warmest=1;
         int[] day=new int[temperatures.length];
-        stack.push(0);
-        for(int i=1;i<temperatures.length;i++){
+        for(int i=temperatures.length-1;i>=0;i--){
             int curr=temperatures[i];
-            while(!stack.isEmpty()){
-                int preIndex=stack.peek();
-                int pre=temperatures[preIndex];
-                if(pre<curr){
-                    day[preIndex]=i-preIndex;
-                    stack.pop();
-                }
-                else{
+            if(warmest<=curr){
+                warmest=curr;
+                continue;
+            }
+
+            int count=1;
+            while(true){
+                if(curr<temperatures[i+count]){
+                    day[i]=count;
                     break;
                 }
+                else{
+                    count=count+day[i+count];
+                }
             }
-            stack.push(i);
+
         }
         return day;
+
+
+
+
+        //ish mai hum forwarded chech kar rahe hai
+        //this beats 66.74% and 61ms runtime
+
+        // Stack<Integer> stack=new Stack<>();
+        // int[] day=new int[temperatures.length];
+        // stack.push(0);
+        // for(int i=1;i<temperatures.length;i++){
+        //     int curr=temperatures[i];
+        //     while(!stack.isEmpty()){
+        //         int preIndex=stack.peek();
+        //         int pre=temperatures[preIndex];
+        //         if(pre<curr){
+        //             day[preIndex]=i-preIndex;
+        //             stack.pop();
+        //         }
+        //         else{
+        //             break;
+        //         }
+        //     }
+        //     stack.push(i);
+        // }
+        // return day;
 
 
 
