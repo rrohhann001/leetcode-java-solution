@@ -10,10 +10,7 @@ class Solution {
             while(!stack.isEmpty() && tempr>=temperatures[stack.peek()] ){
                 stack.pop();
             }
-            if(stack.isEmpty()){
-                day[i]=0;
-            }
-            else{
+            if(!stack.isEmpty()){
                 day[i]=stack.peek()-i;
             }
             stack.push(i);
