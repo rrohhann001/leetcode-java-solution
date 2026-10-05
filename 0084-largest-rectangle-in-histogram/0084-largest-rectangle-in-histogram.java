@@ -1,22 +1,40 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
 
-        Stack<Integer> stack=new Stack<>();
-        int n=heights.length;
+        //(4 approch) using 1 custom stack
+        int n = heights.length;
+        int[] stack = new int[n + 1];
+        int index=-1;
         int max=Integer.MIN_VALUE;
-        for(int i=0;i<n+1;i++){
-            int element=(i==n)?0:heights[i];
-            while(!stack.isEmpty() && heights[stack.peek()]>element){
-                int h=heights[stack.pop()];
-                int ps=(stack.isEmpty())?-1:stack.peek();
+        for (int i = 0; i < n + 1; i++) {
+            int ele = (i == n) ? 0 : heights[i];
+            while(index!=-1 && heights[stack[index]]>ele){
+                int h=heights[stack[index--]];
+                int ps=(index==-1)?-1:stack[index];
                 int w=i-ps-1;
                 max=Math.max(max,h*w);
             }
-            stack.push(i);
+            stack[++index]=i;
         }
         return (max==Integer.MIN_VALUE)?0:max;
 
-    //(2 approch) this beats 10.43% and runtime 112ms
+        //(3 approch) using 1 stack this beats 52.88% and 69ms runtime (ye bhi badhiya hai))
+        // Stack<Integer> stack=new Stack<>();
+        // int n=heights.length;
+        // int max=Integer.MIN_VALUE;
+        // for(int i=0;i<n+1;i++){
+        //     int element=(i==n)?0:heights[i];
+        //     while(!stack.isEmpty() && heights[stack.peek()]>element){
+        //         int h=heights[stack.pop()];
+        //         int ps=(stack.isEmpty())?-1:stack.peek();
+        //         int w=i-ps-1;
+        //         max=Math.max(max,h*w);
+        //     }
+        //     stack.push(i);
+        // }
+        // return (max==Integer.MIN_VALUE)?0:max;
+
+        //(2 approch) this beats 10.43% and runtime 112ms
         // int[] ps=findPriviousSmaller(heights);
         // int[] ns=findNextSmaller(heights);
 
@@ -31,8 +49,7 @@ class Solution {
         // }
         // return max;
 
-
-    //(1. approch)this is brute force approch n square time complexity and time limit eceeded
+        //(1. approch)this is brute force approch n square time complexity and time limit eceeded
         // int n=heights.length;
         // int max=0;
         // for(int i=0;i<n;i++){
@@ -52,7 +69,7 @@ class Solution {
 
         // }
         // return max;
-        
+
     }
     //(2 approch, funtion)
     // public static int[] findNextSmaller(int[] arr){
@@ -94,5 +111,5 @@ class Solution {
     //     }
     //     return a;
     // }
-    
+
 }
