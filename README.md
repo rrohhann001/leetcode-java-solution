@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
