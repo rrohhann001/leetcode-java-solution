@@ -1,5 +1,5 @@
 class Solution {
-    private int getSetBits(int n){
+    public static int getSetBits(int n){
         int count=0;
         while(n!=0){
             count++;
