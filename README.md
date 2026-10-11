@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3467-transform-array-by-parity) |
@@ -423,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
