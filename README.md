@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2595-number-of-even-and-odd-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2595-number-of-even-and-odd-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
