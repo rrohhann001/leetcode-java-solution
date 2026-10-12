@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2942-find-words-containing-character](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2942-find-words-containing-character) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Design
