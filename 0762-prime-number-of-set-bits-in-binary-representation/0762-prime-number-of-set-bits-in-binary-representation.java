@@ -1,20 +1,21 @@
 class Solution {
-    private int setBits(int n){
-        int count=0;
-        while(n>0){
-            if((n&1)!=0){
-                count++;
-            }
-            n=n>>1;
-        }
-        return count;
-    }
+    // private int setBits(int n){
+    //     int count=0;
+    //     while(n>0){
+    //         if((n&1)!=0){
+    //             count++;
+    //         }
+    //         n=n>>1;
+    //     }
+    //     return count;
+    // }
     private boolean isPrime(int n){
         if(n<2){
             return false;
         }
         int i=2;
-        while(i*i<=n){
+        // while(i<=n/2){
+        while(i*i<=n){ //ye pata nahi kese kaam kar raha hai
             if(n%i==0){
                 return false;
             }
@@ -25,7 +26,8 @@ class Solution {
     public int countPrimeSetBits(int left, int right) {
         int count=0;
         for(int i=left;i<=right;i++){
-            int temp=setBits(i);
+            // int temp=setBits(i);
+            int temp=Integer.bitCount(i);
             if(isPrime(temp)){
                 count++;
             }
