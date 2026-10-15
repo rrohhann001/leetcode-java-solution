@@ -1,9 +1,9 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n=nums.length;
-        if(n==0||n==1){
-            return;
-        }
+        // if(n==0||n==1){
+        //     return;
+        // }
         k=k%n;
         int[] arr=new int[k];
         int temp=k;
