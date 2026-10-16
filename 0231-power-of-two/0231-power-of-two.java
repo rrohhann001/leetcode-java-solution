@@ -2,15 +2,15 @@ class Solution {
 
     public boolean isPowerOfTwo(int n) {
         //now i know bit manipulation
-        return (n>0&& (n&(n-1))==0);
+        return n > 0 && (n & (n - 1)) == 0;
 
-    //     if(n<0){
-    //         return false;
-    //     }
-    //     else{
-    //         return binarySearch(0,30,n,2);
-    //     }
-        
+        //     if(n<0){
+        //         return false;
+        //     }
+        //     else{
+        //         return binarySearch(0,30,n,2);
+        //     }
+
     }
 
     //my first approch that theats 96.82% and 1ms runtime
