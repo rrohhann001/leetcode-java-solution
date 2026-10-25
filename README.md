@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0445-add-two-numbers-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
