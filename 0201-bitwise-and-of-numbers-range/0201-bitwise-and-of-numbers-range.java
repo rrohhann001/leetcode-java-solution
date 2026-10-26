@@ -13,16 +13,23 @@ class Solution {
         // }
         // return (int)res;
 
-        int res=right;
-        right=right-1;
-        while(right>=left){
-            if(res==0){
-                return res;
-            }
-            res=res&right;
-            right=res-1;
+        //this is my own solution beats 18.45% and runtime 9ms
+        // int res=right;
+        // right=right-1;
+        // while(right>=left){
+        //     if(res==0){
+        //         return res;
+        //     }
+        //     res=res&right;
+        //     right=res-1;
+        // }
+        // return res;
+
+        //ye dekhna padega doosre ka dekh kar kiya hai
+        while(right>left){
+            right=right&(right-1);
         }
-        return res;
+        return right;
         
     }
 }
