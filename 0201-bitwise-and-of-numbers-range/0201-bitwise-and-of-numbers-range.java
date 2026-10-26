@@ -1,5 +1,9 @@
 class Solution {
     public int rangeBitwiseAnd(int left, int right) {
+         while(right > left){
+            right = right & (right - 1);
+        }
+        return right;
         //ye hai to theek lekin time limit exceed ho jati hai
         // long res=left;
         // long lb=left;
@@ -25,11 +29,7 @@ class Solution {
         // }
         // return res;
 
-        //ye dekhna padega doosre ka dekh kar kiya hai
-        while(right>left){
-            right=right&(right-1);
-        }
-        return right;
+        
         
     }
 }
