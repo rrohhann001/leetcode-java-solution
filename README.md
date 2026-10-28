@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
