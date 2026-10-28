@@ -1,4 +1,6 @@
 class Solution {
+
+    //this is also same but this is best because this not use extra space
     private void reverse(int[] arr,int start, int end){
         while(start<end){
             int temp=arr[start];
@@ -14,9 +16,12 @@ class Solution {
         //     return;
         // }
         k=k%n;
+        // reverse(nums,0,n-1);
+        // reverse(nums,0,k-1);
+        // reverse(nums,k,n-1);
+        reverse(nums,n-k,n-1);
+        reverse(nums,0,n-k-1);
         reverse(nums,0,n-1);
-        reverse(nums,0,k-1);
-        reverse(nums,k,n-1);
        
 
 
