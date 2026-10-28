@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1019-next-greater-node-in-linked-list) |
+| [1480-running-sum-of-1d-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -474,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
