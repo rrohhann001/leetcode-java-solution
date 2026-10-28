@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1480-running-sum-of-1d-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -479,4 +480,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
