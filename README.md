@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0496-next-greater-element-i) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0771-jewels-and-stones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0541-reverse-string-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0541-reverse-string-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0389-find-the-difference) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0693-binary-number-with-alternating-bits) |
