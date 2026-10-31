@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
