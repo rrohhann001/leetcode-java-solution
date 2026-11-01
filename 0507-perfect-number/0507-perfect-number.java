@@ -1,14 +1,32 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        int sum=0;
-        int i=1;
-        while(i<=num/2){
+        //brute force
+        // int sum=0;
+        // int i=1;
+        // while(i<=num/2){
+        //     if(num%i==0){
+        //         sum=sum+i;
+        //     }
+        //     i++;
+        // }
+        // return sum==num;
+
+        //second approch
+        if(num==1){
+            return false;
+        }
+        int sum=1;
+        for(int i=2;i*i<=num;i++){
             if(num%i==0){
                 sum=sum+i;
+                if(i!=num%i){
+                    sum+=num/i;
+                }
             }
-            i++;
         }
         return sum==num;
+
+        
         
     }
 }
