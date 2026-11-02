@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -494,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1732-find-the-highest-altitude) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
