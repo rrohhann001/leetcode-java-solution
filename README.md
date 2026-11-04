@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2595-number-of-even-and-odd-bits) |
 ## Divide and Conquer
 |  |
