@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1732-find-the-highest-altitude) |
 ## Memoization
