@@ -35,7 +35,6 @@ class Solution {
 
         //3 second vale se jyada fast
         int n=nums.length;
-        int[] diff=new int[n];
         Set<Integer> prefix=new HashSet<>();
         Set<Integer> suffix=new HashSet<>();
 
@@ -52,6 +51,8 @@ class Solution {
             suffix.add(num);
         }
         return nums;
+
+        //vese ye logic mujhe jyada khass samajh nahi aaye and na hi ye mere logic hai
 
         
         
