@@ -30,13 +30,19 @@ class Solution {
             temp^=num;
         }
 
-        int bit=1;
-        while((temp&bit)==0){
-            bit=bit<<1;
-        }
+        //find first set bit
+        // int bit=1;
+        // while((temp&bit)==0){
+        //     bit=bit<<1;
+        // }
+        //ish ki jagha ye bhi kar sakte hai
 
+        //(temp&(temp-1)ish se right most bit unset ho jata hai and fir ush ka xor
+        int mask=(temp&(temp-1))^temp;
+
+        //then perform XOR base on 2 cases, 1 case where bit is 1 and 2 case whre bit is 0
         for(int num: nums){
-            if((num&bit)!=0){
+            if((num&mask)!=0){
                 result[0]^=num;
             }
             else{
