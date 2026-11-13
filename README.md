@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1009-complement-of-base-10-integer) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2595-number-of-even-and-odd-bits) |
 ## Divide and Conquer
