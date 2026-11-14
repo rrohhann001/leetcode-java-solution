@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2485-find-the-pivot-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2485-find-the-pivot-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2574-left-and-right-sum-differences) |
 ## Memoization
 |  |
