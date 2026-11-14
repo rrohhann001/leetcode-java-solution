@@ -1,5 +1,6 @@
 class Solution {
     public int[] answerQueries(int[] nums, int[] queries) {
+        //this is my approch that beats 6.06% and 25ms runtime (may be bute force ya or bekar)
         int n=nums.length;
         int m=queries.length;
         Arrays.sort(nums);
@@ -11,7 +12,7 @@ class Solution {
             for(int j=0;j<n;j++){
                 sum+=nums[j];
                 if(sum>temp){
-                    sum=sum-nums[j];
+                    break;
                 }
                 else if(sum<=temp){
                     count++;
