@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2670-find-the-distinct-difference-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2778-sum-of-squares-of-special-elements) |
