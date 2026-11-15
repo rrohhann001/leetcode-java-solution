@@ -1,7 +1,7 @@
 class Solution {
     public int maxDivScore(int[] nums, int[] divisors) {
         int maxScore=0;
-        int result=0;
+        int result=divisors[0];
         for(int divis:divisors){
             int score=0;
             for(int i=0;i<nums.length;i++){
