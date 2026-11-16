@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2942-find-words-containing-character](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2942-find-words-containing-character) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Timsort
 |  |
 | ------- |
