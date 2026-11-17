@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0260-single-number-iii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0389-find-the-difference) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0912-sort-an-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -554,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0832-flipping-an-image) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
