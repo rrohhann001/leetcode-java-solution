@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0509-fibonacci-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0190-reverse-bits) |
