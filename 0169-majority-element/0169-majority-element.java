@@ -1,5 +1,27 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        //3 optimal approch. Boyer mooreVoting algorithm
+        int candidate=nums[0];
+        int count=1;
+        for(int i=1;i<nums.length;i++){
+            if(candidate==nums[i]){
+                count++;
+            }
+            else{
+                count--;
+                if(count==0){
+                    candidate=nums[i];
+                    count=1;
+                }
+            }
+        }
+        return candidate;
+
+
+
+
+
+
         // approch 1 brute force
         // int n=nums.length;
         // for(int i=0;i<n;i++){
@@ -16,8 +38,8 @@ class Solution {
         // return -1;
 
         // approch 2 optimal sorting
-        Arrays.sort(nums);
-        return nums[nums.length/2];
+        // Arrays.sort(nums);
+        // return nums[nums.length/2];
 
     }
 }
