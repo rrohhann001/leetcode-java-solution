@@ -14,11 +14,8 @@ class Solution {
                     count++;
                 }
             }
-            if(maxFreq<count){
+            if(maxFreq<count || maxFreq==count && temp<ans){
                 maxFreq=count;
-                ans=temp;
-            }
-            else if(maxFreq==count && temp<ans){
                 ans=temp;
             }
         }
