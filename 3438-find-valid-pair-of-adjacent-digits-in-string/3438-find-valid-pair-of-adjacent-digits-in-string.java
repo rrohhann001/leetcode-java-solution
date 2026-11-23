@@ -6,18 +6,13 @@ class Solution {
         }
 
         int i=0;
-        int j=1;
-        while(j<s.length()){
-            char ch1=s.charAt(i);
-            char ch2=s.charAt(j);
-            if(ch1!=ch2){
-                if(ch1-'0'==arr[ch1-'0'] && ch2-'0'==arr[ch2-'0']){
-                    return ""+ch1+ch2;
-                }
+        while(i<s.length()-1){
+            int ch1=s.charAt(i)-'0';
+            int ch2=s.charAt(i+1)-'0';
+            if(ch1!=ch2 && (ch1==arr[ch1] && ch2==arr[ch2])){
+                return s.substring(i,i+2);
             }
-            i=j;
-            j++;
-
+            i++;
         }
         return "";
         
