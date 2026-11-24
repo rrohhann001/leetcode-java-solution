@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2485-find-the-pivot-integer) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -580,4 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0229-majority-element-ii) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
