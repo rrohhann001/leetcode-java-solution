@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0771-jewels-and-stones) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rrohhann001/leetcode-java-solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1732-find-the-highest-altitude) |
