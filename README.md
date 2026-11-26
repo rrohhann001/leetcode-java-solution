@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
 | [2465-number-of-distinct-averages](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2465-number-of-distinct-averages) |
 | [2670-find-the-distinct-difference-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2670-find-the-distinct-difference-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2465-number-of-distinct-averages) |
