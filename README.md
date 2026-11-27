@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2942-find-words-containing-character) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2595-number-of-even-and-odd-bits) |
 ## Divide and Conquer
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rrohhann001/leetcode-java-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
