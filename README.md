@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2465-number-of-distinct-averages) |
 | [2670-find-the-distinct-difference-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2670-find-the-distinct-difference-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2465-number-of-distinct-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2574-left-and-right-sum-differences) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3467-transform-array-by-parity) |
