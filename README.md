@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2465-number-of-distinct-averages) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2351-first-letter-to-appear-twice) |
+| [2399-check-distances-between-same-letters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2399-check-distances-between-same-letters) |
 | [2942-find-words-containing-character](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2942-find-words-containing-character) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rrohhann001/leetcode-java-solution/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rrohhann001/leetcode-java-solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
