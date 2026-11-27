@@ -1,8 +1,7 @@
 class Solution {
     public char repeatedCharacter(String s) {
         HashSet<Character> set=new HashSet<>();
-        for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
+        for(char ch:s.toCharArray()){
             if(set.contains(ch)){
                 return ch;
             }
